@@ -265,7 +265,7 @@
       "sel": 0.0,
       "dis": 0.0,
       "xpan": 0.0,
-      "b0": "https://discord.com/api/webhooks/957652865151807489/E5n_fRC3il1eRhWgjzcWfoYs2ifufwi0T4kwIAUHpcxUrp-5qkA3Rh7e2MrckYjefOf3?wait=true",
+      "b0": "DISCORD WEBHOOK URL?wait=true",
       "b4": "discordResponse",
       "b2": "discordHeader"
     },
@@ -481,7 +481,7 @@
       "sel": 0.0,
       "dis": 0.0,
       "xpan": 0.0,
-      "b0": "https://discord.com/api/webhooks/957652865151807489/E5n_fRC3il1eRhWgjzcWfoYs2ifufwi0T4kwIAUHpcxUrp-5qkA3Rh7e2MrckYjefOf3/messages//$result.id$/",
+      "b0": "DISCORD WEBHOOK URL/messages//$result.id$/",
       "b4": "discordDelete",
       "b2": "discordHeader"
     },
