@@ -272,7 +272,7 @@
   ],
   "group_id": "",
   "overlappable": 0.0,
-  "init_variable": "{\n\"chat_list\":[],\n\"responses\":{\n\"wolbee\":\"Hi me!\",\n\"Lioran\":\"Thank you for creating this awesome piece of software.\",\n\"Christinna\":\"The LioranBoard extension queen herself...\",\n\"Melonax\":\"We should all strive to have more melosnax.\",\n\"Falinere\":\"Clean up your code!\"}\n}",
+  "init_variable": "{\n\"chat_list\":[],\n\"responses\":{\n\"wolbee\":\"Hi me!\",\n\"lioran\":\"Thank you for creating this awesome piece of software.\",\n\"christinna\":\"The LioranBoard extension queen herself...\",\n\"melonax\":\"We should all strive to have more melosnax.\",\n\"falinere\":\"Clean up your code!\"}\n}",
   "deck": 11.0,
   "width": 0.10000000000000000555111512312578,
   "button_id": "ID180",
