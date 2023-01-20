@@ -116,7 +116,7 @@
       "v0": 2
     },
     {
-      "b1": "GET",
+      "b1": "POST",
       "b3": "response",
       "cmd": 268,
       "obsid": "Main",
