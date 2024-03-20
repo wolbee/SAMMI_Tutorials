@@ -1,0 +1,1 @@
+{ "user_name": "filmscotland", "from_channel_id": 72573038.0, "picture_url": "https:\/\/static-cdn.jtvnw.net\/jtv_user_pictures\/28809f40-2d02-4ff7-a1bc-c36ed3b2adae-profile_image-300x300.png", "user_id": "152404618", "display_name": "FilmScotland", "channel": "wolbee", "amount": 1.0, "trigger_type": 4.0 }

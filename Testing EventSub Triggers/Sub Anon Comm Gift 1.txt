@@ -1,0 +1,2 @@
+{ "user_name": "filmscotland", "cumulative_total": 7.0, "from_channel_id": 72573038.0, "user_id": "152404618", "tier": "Tier 1", "id": "8221962545048836247", "channel": "wolbee", "display_name": "FilmScotland", "amount": 1.0, "trigger_type": 2.0 }
+{ "user_name": "Anonymous User", "cumulative_total": null, "from_channel_id": 72573038.0, "user_id": 0.0, "tier": "Tier 1", "id": "4416171059647298588", "channel": "wolbee", "display_name": "Anonymous User", "amount": 1.0, "trigger_type": 2.0 }

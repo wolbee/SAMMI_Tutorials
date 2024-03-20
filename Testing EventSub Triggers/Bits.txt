@@ -1,0 +1,5 @@
+{ "user_name": "filmscotland", "from_channel_id": 72573038.0, "user_id": "152404618", "message": "Cheer1", "total_amount": 0.0, "display_name": "FilmScotland", "amount": 1.0, "trigger_type": 5.0 }
+{ "user_name": "filmscotland", "from_channel_id": 72573038.0, "user_id": "152404618", "message": "Cheer1", "total_amount": 0.0, "display_name": "FilmScotland", "amount": 1.0, "trigger_type": 5.0 }
+{ "user_name": "filmscotland", "from_channel_id": 72573038.0, "user_id": "152404618", "message": "Cheer1", "total_amount": 0.0, "display_name": "FilmScotland", "amount": 1.0, "trigger_type": 5.0 }
+{ "user_name": "filmscotland", "from_channel_id": 72573038.0, "user_id": "152404618", "message": "Cheer1", "total_amount": 0.0, "display_name": "FilmScotland", "amount": 1.0, "trigger_type": 5.0 }
+{ "user_name": "filmscotland", "from_channel_id": 72573038.0, "user_id": "152404618", "message": "Cheer50", "total_amount": 0.0, "display_name": "FilmScotland", "amount": 50.0, "trigger_type": 5.0 }

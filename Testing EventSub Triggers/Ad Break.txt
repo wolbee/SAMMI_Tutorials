@@ -1,0 +1,1 @@
+{ "requester_display_name": "wolbee", "started_at": null, "user_name": "wolbee", "duration": 30.0, "from_channel_id": 72573038.0, "user_id": "72573038", "is_automatic": 0.0, "requester_user_name": "wolbee", "display_name": "wolbee", "requester_user_id": "72573038", "trigger_type": 33.0 }
